@@ -1,5 +1,5 @@
 # AddressBook
-# Menu Developed a menu-driven Address Book application using the C programming language.
+# Developed a menu-driven Address Book application using the C programming language.
 
 # Features:
 
